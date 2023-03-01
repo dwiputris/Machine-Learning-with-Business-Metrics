@@ -10,7 +10,7 @@ A dataset of volume oil reserves, as well as three independent variables for eac
 
 The project is to find one location with to develop with prospect to meet company's business metrics:
 
-1. Contribute to the company's positive profitability, with budgested cost of USD 100,000,000
+1. Contribute to the company's positive profitability, with budgeted cost of USD 100,000,000
 
 2. Has a potential of risk not more than 2.5%
 
@@ -34,7 +34,7 @@ The datasets of three locations observed:
 
 
 The parameters of each well are known already. 
-The target of this machine learing is to find prediction of volume, that is numerical, continuous.
+The target of this machine learning is to find prediction of volume, that is numerical, continuous.
 Hence the model needed is the regression one.
 One location with the highest margin will be found.
 From those three location, wells are to be sampled using bootstrapping method.
